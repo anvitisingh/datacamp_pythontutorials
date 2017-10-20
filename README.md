@@ -1,6 +1,5 @@
-# datacamp_pythontutorials
-Data Camp Tutorials
-# This is me learning Python
+### datacamp_pythontutorials
+# Data Camp Tutorials:
 
 ## Intro to Python for Data Science
 
